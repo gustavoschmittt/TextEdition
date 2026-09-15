@@ -6,7 +6,7 @@ Um editor de texto simples desenvolvido em C# para praticar manipulação de arq
 
 * Criar novos arquivos de texto
 * Abrir arquivos existentes
-* Editar o conteúdo de arquivos
+* Adicionar conteúdo a arquivos existentes e salvá-los novamente.
 * Salvar arquivos
 * Usar `Enter` para criar novas linhas
 * Usar `Backspace` para apagar caracteres

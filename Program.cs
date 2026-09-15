@@ -149,7 +149,7 @@ static void Editar(string path ,string text)
     Console.WriteLine("Editando o texto escolhido:                    (ESC para encerrar a edição)");
     Console.WriteLine("");
     Console.WriteLine(text);
-    string newText = "";
+    string newText = text;
     ConsoleKeyInfo tecla;
 
     do
